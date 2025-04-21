@@ -1,0 +1,201 @@
+Nome,Cargo,Departamento,Localização,Salário,Data_Admissao
+Pessoa 1,Técnico,Financeiro,Rio de Janeiro,4150.7,2015-01-01
+Pessoa 2,Analista,TI,São Paulo,8296.07,2015-01-02
+Pessoa 3,Técnico,TI,Belo Horizonte,14583.73,2015-01-05
+Pessoa 4,Analista,Vendas,São Paulo,5150.79,2015-01-06
+Pessoa 5,Analista,RH,Rio de Janeiro,7008.63,2015-01-07
+Pessoa 6,Engenheiro,RH,São Paulo,10373.49,2015-01-08
+Pessoa 7,Técnico,Marketing,Curitiba,6071.25,2015-01-09
+Pessoa 8,Técnico,Financeiro,São Paulo,10813.19,2015-01-12
+Pessoa 9,Cientista de Dados,Financeiro,Curitiba,5915.51,2015-01-13
+Pessoa 10,Gerente,RH,Belo Horizonte,9881.18,2015-01-14
+Pessoa 11,Desenvolvedor,RH,Belo Horizonte,7034.54,2015-01-15
+Pessoa 12,Gerente,TI,Curitiba,2245.24,2015-01-16
+Pessoa 13,Gerente,RH,Belo Horizonte,6733.02,2015-01-19
+Pessoa 14,Analista,Financeiro,Rio de Janeiro,12120.77,2015-01-20
+Pessoa 15,Desenvolvedor,Vendas,Porto Alegre,7835.41,2015-01-21
+Pessoa 16,Gerente,Financeiro,São Paulo,2831.44,2015-01-22
+Pessoa 17,Engenheiro,RH,Curitiba,9891.41,2015-01-23
+Pessoa 18,Analista,RH,Belo Horizonte,3587.69,2015-01-26
+Pessoa 19,Cientista de Dados,Marketing,Belo Horizonte,14206.6,2015-01-27
+Pessoa 20,Técnico,Financeiro,Porto Alegre,8667.28,2015-01-28
+Pessoa 21,Gerente,Vendas,Porto Alegre,14314.14,2015-01-29
+Pessoa 22,Cientista de Dados,TI,Porto Alegre,7778.14,2015-01-30
+Pessoa 23,Gerente,RH,São Paulo,4822.67,2015-02-02
+Pessoa 24,Cientista de Dados,TI,São Paulo,2525.0,2015-02-03
+Pessoa 25,Analista,RH,Porto Alegre,5354.59,2015-02-04
+Pessoa 26,Técnico,RH,Porto Alegre,13276.01,2015-02-05
+Pessoa 27,Engenheiro,Marketing,Rio de Janeiro,5809.76,2015-02-06
+Pessoa 28,Gerente,Financeiro,Curitiba,6753.91,2015-02-09
+Pessoa 29,Gerente,Marketing,Curitiba,11246.4,2015-02-10
+Pessoa 30,Técnico,TI,Belo Horizonte,7534.54,2015-02-11
+Pessoa 31,Desenvolvedor,RH,Curitiba,4120.32,2015-02-12
+Pessoa 32,Cientista de Dados,Marketing,Curitiba,11830.17,2015-02-13
+Pessoa 33,Técnico,Marketing,São Paulo,10919.16,2015-02-16
+Pessoa 34,Cientista de Dados,RH,Belo Horizonte,3291.8,2015-02-17
+Pessoa 35,Engenheiro,TI,São Paulo,9988.48,2015-02-18
+Pessoa 36,Gerente,RH,Curitiba,10155.63,2015-02-19
+Pessoa 37,Analista,TI,Belo Horizonte,4709.43,2015-02-20
+Pessoa 38,Técnico,TI,São Paulo,7433.94,2015-02-23
+Pessoa 39,Engenheiro,Vendas,Rio de Janeiro,3345.05,2015-02-24
+Pessoa 40,Gerente,RH,Belo Horizonte,10027.61,2015-02-25
+Pessoa 41,Gerente,TI,Rio de Janeiro,10379.49,2015-02-26
+Pessoa 42,Engenheiro,RH,Porto Alegre,2571.88,2015-02-27
+Pessoa 43,Técnico,TI,São Paulo,9492.04,2015-03-02
+Pessoa 44,Gerente,TI,Belo Horizonte,7148.9,2015-03-03
+Pessoa 45,Analista,TI,Belo Horizonte,10293.52,2015-03-04
+Pessoa 46,Desenvolvedor,RH,Porto Alegre,3285.76,2015-03-05
+Pessoa 47,Cientista de Dados,RH,Belo Horizonte,4755.08,2015-03-06
+Pessoa 48,Gerente,Marketing,Rio de Janeiro,14679.47,2015-03-09
+Pessoa 49,Gerente,TI,Porto Alegre,5010.08,2015-03-10
+Pessoa 50,Analista,Financeiro,Curitiba,10539.53,2015-03-11
+Pessoa 51,Desenvolvedor,Marketing,Rio de Janeiro,3007.8,2015-03-12
+Pessoa 52,Cientista de Dados,TI,Belo Horizonte,11065.72,2015-03-13
+Pessoa 53,Engenheiro,Financeiro,Rio de Janeiro,12424.99,2015-03-16
+Pessoa 54,Cientista de Dados,Marketing,Porto Alegre,5880.58,2015-03-17
+Pessoa 55,Desenvolvedor,RH,São Paulo,2425.58,2015-03-18
+Pessoa 56,Gerente,Marketing,Rio de Janeiro,9556.22,2015-03-19
+Pessoa 57,Desenvolvedor,RH,São Paulo,6760.94,2015-03-20
+Pessoa 58,Engenheiro,Vendas,São Paulo,2121.45,2015-03-23
+Pessoa 59,Analista,TI,Curitiba,7216.12,2015-03-24
+Pessoa 60,Engenheiro,Marketing,Belo Horizonte,5608.28,2015-03-25
+Pessoa 61,Engenheiro,Vendas,Belo Horizonte,7399.54,2015-03-26
+Pessoa 62,Engenheiro,Financeiro,Rio de Janeiro,13171.88,2015-03-27
+Pessoa 63,Analista,RH,Porto Alegre,11743.33,2015-03-30
+Pessoa 64,Cientista de Dados,RH,Curitiba,11100.34,2015-03-31
+Pessoa 65,Engenheiro,RH,Porto Alegre,9811.38,2015-04-01
+Pessoa 66,Técnico,Marketing,Porto Alegre,13694.01,2015-04-02
+Pessoa 67,Técnico,Financeiro,Rio de Janeiro,9846.51,2015-04-03
+Pessoa 68,Analista,Financeiro,São Paulo,8233.38,2015-04-06
+Pessoa 69,Desenvolvedor,TI,Curitiba,11888.14,2015-04-07
+Pessoa 70,Desenvolvedor,Marketing,Rio de Janeiro,12477.1,2015-04-08
+Pessoa 71,Gerente,Vendas,Belo Horizonte,6057.21,2015-04-09
+Pessoa 72,Analista,RH,Rio de Janeiro,4857.61,2015-04-10
+Pessoa 73,Gerente,Financeiro,São Paulo,14844.27,2015-04-13
+Pessoa 74,Cientista de Dados,TI,Rio de Janeiro,13709.11,2015-04-14
+Pessoa 75,Gerente,RH,São Paulo,14631.96,2015-04-15
+Pessoa 76,Técnico,Financeiro,São Paulo,10716.11,2015-04-16
+Pessoa 77,Desenvolvedor,Vendas,São Paulo,11903.08,2015-04-17
+Pessoa 78,Cientista de Dados,Financeiro,Curitiba,14964.53,2015-04-20
+Pessoa 79,Desenvolvedor,TI,Belo Horizonte,8237.01,2015-04-21
+Pessoa 80,Analista,Financeiro,São Paulo,7360.42,2015-04-22
+Pessoa 81,Desenvolvedor,Marketing,Porto Alegre,5723.16,2015-04-23
+Pessoa 82,Desenvolvedor,Marketing,Porto Alegre,9477.44,2015-04-24
+Pessoa 83,Analista,Financeiro,Rio de Janeiro,8736.25,2015-04-27
+Pessoa 84,Técnico,RH,Rio de Janeiro,4806.13,2015-04-28
+Pessoa 85,Analista,Marketing,Porto Alegre,13570.01,2015-04-29
+Pessoa 86,Cientista de Dados,RH,Porto Alegre,7828.4,2015-04-30
+Pessoa 87,Desenvolvedor,RH,São Paulo,8053.47,2015-05-01
+Pessoa 88,Gerente,TI,Belo Horizonte,6240.75,2015-05-04
+Pessoa 89,Cientista de Dados,TI,Curitiba,10329.71,2015-05-05
+Pessoa 90,Analista,Vendas,Porto Alegre,12776.74,2015-05-06
+Pessoa 91,Desenvolvedor,Vendas,Porto Alegre,5255.25,2015-05-07
+Pessoa 92,Cientista de Dados,Financeiro,Curitiba,5145.99,2015-05-08
+Pessoa 93,Desenvolvedor,Marketing,Belo Horizonte,6281.08,2015-05-11
+Pessoa 94,Gerente,RH,Rio de Janeiro,5635.63,2015-05-12
+Pessoa 95,Engenheiro,Marketing,São Paulo,7763.55,2015-05-13
+Pessoa 96,Analista,TI,Porto Alegre,4628.05,2015-05-14
+Pessoa 97,Desenvolvedor,Vendas,Belo Horizonte,3051.43,2015-05-15
+Pessoa 98,Técnico,Financeiro,Porto Alegre,5745.69,2015-05-18
+Pessoa 99,Engenheiro,RH,São Paulo,11553.72,2015-05-19
+Pessoa 100,Gerente,Financeiro,São Paulo,12175.06,2015-05-20
+Pessoa 101,Analista,RH,Curitiba,5135.9,2015-05-21
+Pessoa 102,Analista,Vendas,Belo Horizonte,9214.23,2015-05-22
+Pessoa 103,Analista,Financeiro,Curitiba,13082.94,2015-05-25
+Pessoa 104,Gerente,TI,Porto Alegre,11941.95,2015-05-26
+Pessoa 105,Engenheiro,Financeiro,Porto Alegre,12291.67,2015-05-27
+Pessoa 106,Engenheiro,TI,São Paulo,8241.53,2015-05-28
+Pessoa 107,Desenvolvedor,TI,São Paulo,6864.96,2015-05-29
+Pessoa 108,Analista,TI,São Paulo,2884.46,2015-06-01
+Pessoa 109,Gerente,Vendas,Porto Alegre,12748.81,2015-06-02
+Pessoa 110,Técnico,Marketing,Rio de Janeiro,13012.03,2015-06-03
+Pessoa 111,Gerente,RH,Belo Horizonte,10373.33,2015-06-04
+Pessoa 112,Engenheiro,RH,Porto Alegre,11948.05,2015-06-05
+Pessoa 113,Cientista de Dados,Vendas,Curitiba,14942.05,2015-06-08
+Pessoa 114,Analista,TI,Belo Horizonte,9407.36,2015-06-09
+Pessoa 115,Gerente,RH,Rio de Janeiro,11896.15,2015-06-10
+Pessoa 116,Gerente,TI,Rio de Janeiro,5827.4,2015-06-11
+Pessoa 117,Desenvolvedor,RH,Porto Alegre,4727.73,2015-06-12
+Pessoa 118,Desenvolvedor,Vendas,São Paulo,7477.93,2015-06-15
+Pessoa 119,Gerente,Financeiro,Belo Horizonte,14064.32,2015-06-16
+Pessoa 120,Engenheiro,TI,Porto Alegre,5456.18,2015-06-17
+Pessoa 121,Analista,TI,Porto Alegre,9610.92,2015-06-18
+Pessoa 122,Analista,Vendas,Rio de Janeiro,12995.24,2015-06-19
+Pessoa 123,Gerente,TI,São Paulo,13160.76,2015-06-22
+Pessoa 124,Gerente,Financeiro,São Paulo,8146.93,2015-06-23
+Pessoa 125,Desenvolvedor,Financeiro,São Paulo,10432.21,2015-06-24
+Pessoa 126,Desenvolvedor,Vendas,Belo Horizonte,11060.54,2015-06-25
+Pessoa 127,Técnico,RH,Belo Horizonte,11924.1,2015-06-26
+Pessoa 128,Cientista de Dados,TI,Rio de Janeiro,4130.6,2015-06-29
+Pessoa 129,Técnico,TI,São Paulo,13685.75,2015-06-30
+Pessoa 130,Cientista de Dados,Marketing,Curitiba,12874.56,2015-07-01
+Pessoa 131,Desenvolvedor,RH,Curitiba,2485.6,2015-07-02
+Pessoa 132,Técnico,Financeiro,Belo Horizonte,10479.71,2015-07-03
+Pessoa 133,Cientista de Dados,Financeiro,Belo Horizonte,6991.08,2015-07-06
+Pessoa 134,Técnico,TI,São Paulo,6899.93,2015-07-07
+Pessoa 135,Desenvolvedor,TI,Curitiba,3707.86,2015-07-08
+Pessoa 136,Analista,Vendas,São Paulo,6366.24,2015-07-09
+Pessoa 137,Técnico,Vendas,Rio de Janeiro,4881.89,2015-07-10
+Pessoa 138,Desenvolvedor,Marketing,Porto Alegre,11839.79,2015-07-13
+Pessoa 139,Desenvolvedor,Vendas,Rio de Janeiro,12492.48,2015-07-14
+Pessoa 140,Gerente,Marketing,São Paulo,11411.01,2015-07-15
+Pessoa 141,Técnico,TI,Belo Horizonte,10030.58,2015-07-16
+Pessoa 142,Técnico,TI,Porto Alegre,13283.89,2015-07-17
+Pessoa 143,Cientista de Dados,Vendas,Rio de Janeiro,7135.38,2015-07-20
+Pessoa 144,Desenvolvedor,Vendas,São Paulo,2794.1,2015-07-21
+Pessoa 145,Técnico,Marketing,Curitiba,2641.8,2015-07-22
+Pessoa 146,Técnico,Marketing,Belo Horizonte,13652.23,2015-07-23
+Pessoa 147,Analista,TI,Belo Horizonte,10085.4,2015-07-24
+Pessoa 148,Engenheiro,Marketing,Porto Alegre,2029.83,2015-07-27
+Pessoa 149,Engenheiro,Vendas,São Paulo,12291.32,2015-07-28
+Pessoa 150,Cientista de Dados,Financeiro,Porto Alegre,14158.63,2015-07-29
+Pessoa 151,Técnico,Vendas,Belo Horizonte,11351.81,2015-07-30
+Pessoa 152,Cientista de Dados,RH,Curitiba,9389.03,2015-07-31
+Pessoa 153,Analista,Marketing,Porto Alegre,3686.98,2015-08-03
+Pessoa 154,Engenheiro,RH,Rio de Janeiro,2319.45,2015-08-04
+Pessoa 155,Cientista de Dados,RH,Curitiba,3597.98,2015-08-05
+Pessoa 156,Cientista de Dados,Marketing,São Paulo,2363.55,2015-08-06
+Pessoa 157,Cientista de Dados,TI,Belo Horizonte,10346.74,2015-08-07
+Pessoa 158,Cientista de Dados,Financeiro,Rio de Janeiro,2221.02,2015-08-10
+Pessoa 159,Desenvolvedor,Marketing,Rio de Janeiro,5206.1,2015-08-11
+Pessoa 160,Analista,Vendas,São Paulo,9494.88,2015-08-12
+Pessoa 161,Gerente,Financeiro,Rio de Janeiro,10129.43,2015-08-13
+Pessoa 162,Engenheiro,Marketing,Porto Alegre,7949.64,2015-08-14
+Pessoa 163,Cientista de Dados,RH,Porto Alegre,12096.71,2015-08-17
+Pessoa 164,Cientista de Dados,Vendas,Rio de Janeiro,10756.68,2015-08-18
+Pessoa 165,Gerente,Marketing,Belo Horizonte,5071.33,2015-08-19
+Pessoa 166,Engenheiro,Financeiro,Belo Horizonte,3464.45,2015-08-20
+Pessoa 167,Engenheiro,RH,Curitiba,10426.48,2015-08-21
+Pessoa 168,Cientista de Dados,Financeiro,Porto Alegre,6967.68,2015-08-24
+Pessoa 169,Gerente,Financeiro,Porto Alegre,2561.68,2015-08-25
+Pessoa 170,Gerente,RH,São Paulo,12443.35,2015-08-26
+Pessoa 171,Desenvolvedor,Vendas,Belo Horizonte,13356.03,2015-08-27
+Pessoa 172,Desenvolvedor,RH,Porto Alegre,10397.11,2015-08-28
+Pessoa 173,Técnico,RH,Porto Alegre,13448.56,2015-08-31
+Pessoa 174,Técnico,RH,São Paulo,6949.3,2015-09-01
+Pessoa 175,Analista,RH,São Paulo,5388.04,2015-09-02
+Pessoa 176,Técnico,Marketing,Rio de Janeiro,2227.96,2015-09-03
+Pessoa 177,Analista,RH,Porto Alegre,7743.73,2015-09-04
+Pessoa 178,Desenvolvedor,Financeiro,Curitiba,12077.21,2015-09-07
+Pessoa 179,Técnico,TI,Curitiba,7488.05,2015-09-08
+Pessoa 180,Técnico,RH,Rio de Janeiro,11164.04,2015-09-09
+Pessoa 181,Analista,RH,Belo Horizonte,2232.5,2015-09-10
+Pessoa 182,Analista,RH,Porto Alegre,12745.21,2015-09-11
+Pessoa 183,Cientista de Dados,Financeiro,Porto Alegre,11672.1,2015-09-14
+Pessoa 184,Analista,TI,Porto Alegre,10794.05,2015-09-15
+Pessoa 185,Cientista de Dados,RH,Curitiba,9736.23,2015-09-16
+Pessoa 186,Cientista de Dados,Financeiro,Belo Horizonte,4481.32,2015-09-17
+Pessoa 187,Técnico,Marketing,São Paulo,7076.3,2015-09-18
+Pessoa 188,Desenvolvedor,TI,Rio de Janeiro,14105.05,2015-09-21
+Pessoa 189,Técnico,Vendas,Belo Horizonte,13672.48,2015-09-22
+Pessoa 190,Desenvolvedor,Financeiro,Rio de Janeiro,8038.24,2015-09-23
+Pessoa 191,Analista,Vendas,Belo Horizonte,3703.48,2015-09-24
+Pessoa 192,Desenvolvedor,Marketing,Curitiba,11353.38,2015-09-25
+Pessoa 193,Engenheiro,Vendas,Curitiba,5917.85,2015-09-28
+Pessoa 194,Cientista de Dados,TI,Curitiba,9161.33,2015-09-29
+Pessoa 195,Técnico,RH,Porto Alegre,11020.43,2015-09-30
+Pessoa 196,Gerente,Marketing,Porto Alegre,8364.49,2015-10-01
+Pessoa 197,Gerente,TI,Porto Alegre,2841.61,2015-10-02
+Pessoa 198,Engenheiro,RH,Belo Horizonte,9665.58,2015-10-05
+Pessoa 199,Desenvolvedor,Financeiro,Belo Horizonte,6980.5,2015-10-06
+Pessoa 200,Técnico,TI,Curitiba,4991.58,2015-10-07

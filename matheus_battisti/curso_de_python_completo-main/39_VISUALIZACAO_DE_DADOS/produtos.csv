@@ -1,0 +1,101 @@
+Produto,Categoria,Preço,Quantidade,Data_Venda
+Smartphone,Periféricos,1906.01,63,2023-01-01
+Mouse,Móveis,2767.47,36,2023-01-02
+Teclado,Móveis,152.94,53,2023-01-03
+Smartphone,Eletrônicos,2426.89,17,2023-01-04
+Cadeira Gamer,Eletrônicos,4472.12,11,2023-01-05
+Notebook,Móveis,1813.29,37,2023-01-06
+Mouse,Móveis,3881.54,1,2023-01-07
+Monitor,Periféricos,1885.85,39,2023-01-08
+Monitor,Eletrônicos,3583.09,32,2023-01-09
+Notebook,Periféricos,1991.59,85,2023-01-10
+Tablet,Periféricos,1251.95,55,2023-01-11
+Fone de Ouvido,Eletrônicos,1649.27,59,2023-01-12
+Cadeira Gamer,Móveis,1427.23,54,2023-01-13
+Monitor,Móveis,4603.32,78,2023-01-14
+Fone de Ouvido,Eletrônicos,2013.09,40,2023-01-15
+Notebook,Móveis,724.47,10,2023-01-16
+Notebook,Eletrônicos,4685.58,32,2023-01-17
+Fone de Ouvido,Móveis,1852.92,21,2023-01-18
+Notebook,Móveis,806.65,60,2023-01-19
+Tablet,Móveis,1256.28,45,2023-01-20
+Fone de Ouvido,Eletrônicos,1284.9,24,2023-01-21
+Teclado,Eletrônicos,1553.27,29,2023-01-22
+Cadeira Gamer,Periféricos,4375.98,59,2023-01-23
+Tablet,Móveis,2508.13,16,2023-01-24
+Fone de Ouvido,Periféricos,4398.78,58,2023-01-25
+Fone de Ouvido,Móveis,2601.83,38,2023-01-26
+Smartphone,Móveis,1546.07,28,2023-01-27
+Fone de Ouvido,Periféricos,2426.7,20,2023-01-28
+Fone de Ouvido,Eletrônicos,2850.2,4,2023-01-29
+Notebook,Móveis,4678.63,52,2023-01-30
+Monitor,Móveis,317.7,77,2023-01-31
+Mouse,Eletrônicos,2591.39,40,2023-02-01
+Notebook,Eletrônicos,3489.97,61,2023-02-02
+Fone de Ouvido,Eletrônicos,2590.94,60,2023-02-03
+Fone de Ouvido,Eletrônicos,179.52,77,2023-02-04
+Notebook,Periféricos,4514.28,58,2023-02-05
+Mouse,Móveis,448.4,88,2023-02-06
+Mouse,Periféricos,3846.28,98,2023-02-07
+Monitor,Móveis,1446.53,96,2023-02-08
+Teclado,Periféricos,2140.59,82,2023-02-09
+Monitor,Móveis,695.46,88,2023-02-10
+Tablet,Móveis,446.1,97,2023-02-11
+Smartphone,Periféricos,2902.16,14,2023-02-12
+Fone de Ouvido,Móveis,3207.3,14,2023-02-13
+Fone de Ouvido,Móveis,1296.0,79,2023-02-14
+Tablet,Móveis,2640.04,80,2023-02-15
+Smartphone,Eletrônicos,2204.14,25,2023-02-16
+Monitor,Móveis,3130.91,90,2023-02-17
+Monitor,Móveis,2638.1,33,2023-02-18
+Mouse,Eletrônicos,2882.49,32,2023-02-19
+Mouse,Periféricos,3280.34,39,2023-02-20
+Smartphone,Eletrônicos,1912.06,95,2023-02-21
+Notebook,Móveis,485.87,74,2023-02-22
+Mouse,Móveis,4271.48,60,2023-02-23
+Mouse,Móveis,3796.8,79,2023-02-24
+Cadeira Gamer,Eletrônicos,2426.14,61,2023-02-25
+Tablet,Periféricos,3375.79,77,2023-02-26
+Teclado,Periféricos,362.57,2,2023-02-27
+Tablet,Móveis,3879.74,17,2023-02-28
+Monitor,Periféricos,1179.69,76,2023-03-01
+Notebook,Eletrônicos,2471.04,15,2023-03-02
+Mouse,Móveis,2848.63,1,2023-03-03
+Monitor,Eletrônicos,2170.45,71,2023-03-04
+Notebook,Periféricos,3695.54,3,2023-03-05
+Cadeira Gamer,Periféricos,4633.89,5,2023-03-06
+Tablet,Eletrônicos,4492.87,68,2023-03-07
+Mouse,Móveis,4105.09,11,2023-03-08
+Mouse,Móveis,2930.66,68,2023-03-09
+Tablet,Móveis,1555.16,74,2023-03-10
+Notebook,Móveis,619.47,47,2023-03-11
+Mouse,Periféricos,2950.6,83,2023-03-12
+Tablet,Periféricos,4615.93,1,2023-03-13
+Tablet,Eletrônicos,738.16,13,2023-03-14
+Mouse,Periféricos,1306.63,25,2023-03-15
+Teclado,Eletrônicos,2898.45,100,2023-03-16
+Teclado,Periféricos,4074.81,43,2023-03-17
+Smartphone,Móveis,1477.95,78,2023-03-18
+Fone de Ouvido,Móveis,2746.1,43,2023-03-19
+Cadeira Gamer,Eletrônicos,2830.61,37,2023-03-20
+Notebook,Eletrônicos,4884.8,14,2023-03-21
+Mouse,Móveis,283.16,35,2023-03-22
+Teclado,Periféricos,2334.97,84,2023-03-23
+Notebook,Periféricos,4990.49,87,2023-03-24
+Fone de Ouvido,Móveis,1803.48,11,2023-03-25
+Cadeira Gamer,Periféricos,1405.08,89,2023-03-26
+Notebook,Periféricos,1349.61,82,2023-03-27
+Notebook,Periféricos,2793.82,65,2023-03-28
+Teclado,Móveis,4708.21,9,2023-03-29
+Fone de Ouvido,Eletrônicos,2929.56,30,2023-03-30
+Mouse,Periféricos,1034.69,58,2023-03-31
+Monitor,Periféricos,2997.61,12,2023-04-01
+Tablet,Móveis,2443.13,38,2023-04-02
+Notebook,Periféricos,3151.26,56,2023-04-03
+Tablet,Periféricos,2157.29,7,2023-04-04
+Smartphone,Eletrônicos,4198.69,36,2023-04-05
+Fone de Ouvido,Periféricos,3321.68,46,2023-04-06
+Notebook,Móveis,2909.3,10,2023-04-07
+Fone de Ouvido,Periféricos,655.79,11,2023-04-08
+Fone de Ouvido,Periféricos,749.47,11,2023-04-09
+Monitor,Móveis,2550.15,7,2023-04-10

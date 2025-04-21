@@ -1,0 +1,15 @@
+{% extends "base.html" %} {% block content %}
+<h2>Formulario de contato</h2>
+<form method="POST">
+  <label for="nome">Nome:</label>
+  <input type="text" name="nome" />
+  <br /><br />
+  <label for="email">Email:</label>
+  <input type="text" name="email" />
+  <br /><br />
+  <label for="mensagem">Mensagem</label>
+  <textarea name="mensagem"></textarea>
+  <br /><br />
+  <button type="submit">Enviar</button>
+</form>
+{% endblock %}
